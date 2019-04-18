@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: happytal
+Version: 0.0.0
+Summary: A set of tools
+Home-page: https://gitlab.com/cgoudet/pytools
+Author: Christophe Goudet
+Author-email: goudetchristophe@gmail.com
+License: UNKNOWN
+Description: # pytools
+        
+        A set of python functions used in my pipelines
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
